@@ -54,6 +54,7 @@
             tr td:last-child {
                 border-right: none;
             }
+            
         </style>
     </head>
     <body>
